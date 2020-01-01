@@ -1,5 +1,5 @@
 var sum = 0
-var x = 123
+var x = 12
 for(var i = 0; i<x+1; i++) {
 	sum = sum + i
 }
